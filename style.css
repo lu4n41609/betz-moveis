@@ -1,5 +1,14 @@
 body
-h1{
+ h1{
     background:
-#a1bfeb
+#1670B5
+}
+h1{
+    text-align: center;
+    text-decoration: rgb(248, 252, 252);
+    font: size 20px; ;
+}
+p{
+    text-align: center;
+     text-decoration: ;
 }
